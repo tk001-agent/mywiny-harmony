@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "mywiny 思维的翅膀"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "思维的翅膀"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "思维的翅膀"
+    },
+    {
+      "name": "title_home",
+      "value": "思维的翅膀"
+    },
+    {
+      "name": "title_raw",
+      "value": "原始对话"
+    },
+    {
+      "name": "title_knowledge",
+      "value": "知识库"
+    },
+    {
+      "name": "title_snapshot",
+      "value": "快照管理"
+    },
+    {
+      "name": "title_system",
+      "value": "系统设置"
+    }
+  ]
+}

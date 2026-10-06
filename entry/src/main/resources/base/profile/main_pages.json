@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/RawDialogPage",
+    "pages/KnowledgePage",
+    "pages/SnapshotPage",
+    "pages/SystemPage"
+  ]
+}
